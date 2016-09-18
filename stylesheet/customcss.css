@@ -274,7 +274,7 @@ letter-spacing: 1px;
   padding: 0 3.5%;
   margin: 0;
 }
-.card-meta a:visited {
+.card-meta a:visited, .card-meta a {
   color: black;
   border: none;
 }
