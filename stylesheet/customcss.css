@@ -169,6 +169,7 @@ a.social-icon:visited {
   font-weight: bold;
   margin-top: 40px;
   letter-spacing: 1px;
+  margin-top: 100px;
 }
 .about-contents {
   margin: 40px;
@@ -176,7 +177,7 @@ a.social-icon:visited {
   font-family:'Volkorn', serif;
 }
 .projects {
-  margin-top: 195px;
+  margin-top: 530px;
   text-align: center;
   color: white;
   font-family:'Ubuntu', sans-serif;
