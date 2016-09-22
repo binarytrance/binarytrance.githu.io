@@ -359,6 +359,9 @@ img {
 #thank-you {
  text-align:center;
 }
+.touch:hover {
+  text-decoration: underline;
+}
 .touch, .touch:visited {
  text-decoration: none;
   font-weight: bold;
